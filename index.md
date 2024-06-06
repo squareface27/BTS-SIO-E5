@@ -7,11 +7,14 @@ hero:
   text: "L'épreuve E5 n'est pas simple ..."
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Documentation Symfony
+      link: https://symfony.com/doc/5.x/index.html
+    - theme: brand
+      text: Documentation C#
+      link: https://learn.microsoft.com/fr-fr/dotnet/csharp/
+    - theme: brand
+      text: Documentation SQL
+      link: https://sql.sh/
 
 features:
   - title: Symfony
