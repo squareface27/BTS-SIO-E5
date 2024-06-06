@@ -12,7 +12,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Accueil", link: "/" },
-      { text: "Référentiel", link: "/markdown-examples" },
+      {
+        text: "Référentiel",
+        link: "https://squareface.fr/Référentiel-E5.pdf",
+      },
     ],
 
     sidebar: sidebar,
