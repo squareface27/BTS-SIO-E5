@@ -17,6 +17,10 @@ export default defineConfig({
 
     sidebar: sidebar,
 
+    search: {
+      provider: "local",
+    },
+
     socialLinks: [
       { icon: "github", link: "https://github.com/squareface27/BTS-SIO-E5" },
     ],
