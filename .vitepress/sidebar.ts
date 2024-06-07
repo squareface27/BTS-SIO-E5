@@ -17,6 +17,11 @@ export default [
   {
     collapsed: true,
     text: "SQL",
-    items: [{}],
+    items: [
+      {
+        text: "Définition",
+        link: "SQL/definition",
+      },
+    ],
   },
 ];

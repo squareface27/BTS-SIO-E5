@@ -25,4 +25,5 @@ features:
     details: mediatekdocuments
   - title: SQL
     details: Révisions SQL
+    link: SQL/definition.md
 ---
