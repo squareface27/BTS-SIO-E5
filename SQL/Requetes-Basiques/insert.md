@@ -1,3 +1,12 @@
+---
+prev:
+  text: "Requêtes Basique | SELECT"
+  link: "SQL/Requetes-Basiques/select.md"
+next:
+  text: "Requêtes Basique | UPDATE"
+  link: "SQL/Requetes-Basiques/update.md"
+---
+
 <u>**La requête INSERT permet d'ajouter des enregistrements.**</u>
 
 <br>

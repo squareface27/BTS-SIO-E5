@@ -20,7 +20,7 @@ export default [
     items: [
       {
         text: "Définition",
-        link: "SQL/definition",
+        link: "SQL/definition.md",
       },
       {
         collapsed: true,
@@ -28,22 +28,22 @@ export default [
         items: [
           {
             text: "SELECT",
-            link: "SQL/Requetes-Basiques/select",
+            link: "SQL/Requetes-Basiques/select.md",
             item: [{}],
           },
           {
             text: "INSERT",
-            link: "SQL/Requetes-Basiques/insert",
+            link: "SQL/Requetes-Basiques/insert.md",
             item: [{}],
           },
           {
             text: "UPDATE",
-            link: "SQL/Requetes-Basiques/update",
+            link: "SQL/Requetes-Basiques/update.md",
             item: [{}],
           },
           {
             text: "DELETE",
-            link: "SQL/Requetes-Basiques/delete",
+            link: "SQL/Requetes-Basiques/delete.md",
             item: [{}],
           },
         ],

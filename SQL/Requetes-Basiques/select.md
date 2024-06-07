@@ -1,3 +1,12 @@
+---
+prev:
+  text: "Définition"
+  link: "SQL/definition.md"
+next:
+  text: "Requêtes Basique | INSERT"
+  link: "SQL/Requetes-Basiques/insert.md"
+---
+
 <u>**La requête SELECT permet de retourner des enregistrements.**</u>
 
 <br>

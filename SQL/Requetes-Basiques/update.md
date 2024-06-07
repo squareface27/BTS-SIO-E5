@@ -1,3 +1,12 @@
+---
+prev:
+  text: "Requêtes Basique | INSERT"
+  link: "SQL/Requetes-Basiques/insert.md"
+next:
+  text: "Requêtes Basique | DELETE"
+  link: "SQL/Requetes-Basiques/delete.md"
+---
+
 <u>**La requête UPDATE permet de modifier des enregistrements.**</u>
 
 <br>
