@@ -19,6 +19,7 @@ hero:
 features:
   - title: Symfony
     details: Mediatek formation
+    link: Symfony/Modifications/NoteEtMoyenne
   - title: PHP - API
     details: _restmediatekdocuments
   - title: C#

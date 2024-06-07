@@ -2,7 +2,18 @@ export default [
   {
     collapsed: true,
     text: "Symfony",
-    items: [{}],
+    items: [
+      {
+        collapsed: true,
+        text: "Exemples modifications",
+        items: [
+          {
+            text: "Système de notes + Moyenne",
+            link: "Symfony/Modifications/NoteEtMoyenne",
+          },
+        ],
+      },
+    ],
   },
   {
     collapsed: true,
@@ -29,22 +40,18 @@ export default [
           {
             text: "SELECT",
             link: "SQL/Requetes-Basiques/select.md",
-            item: [{}],
           },
           {
             text: "INSERT",
             link: "SQL/Requetes-Basiques/insert.md",
-            item: [{}],
           },
           {
             text: "UPDATE",
             link: "SQL/Requetes-Basiques/update.md",
-            item: [{}],
           },
           {
             text: "DELETE",
             link: "SQL/Requetes-Basiques/delete.md",
-            item: [{}],
           },
         ],
       },
