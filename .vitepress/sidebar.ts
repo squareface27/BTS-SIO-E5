@@ -13,6 +13,16 @@ export default [
           },
         ],
       },
+      {
+        collapsed: true,
+        text: "Doctrine",
+        items: [
+          {
+            text: "Définitions",
+            link: "Symfony/Définitions/definitions",
+          },
+        ],
+      },
     ],
   },
   {

@@ -1,0 +1,3 @@
+# C’est quoi Doctrine
+
+Doctrine est une bibliothèque de <u><span style="color:rgb(244,164,96)">**mapping objet-relationnel (ORM) pour PHP**</span></u>. Elle permet de faciliter la manipulation des données dans une base de données en utilisant <u><span style="color:rgb(244,164,96)">**des objets et des requêtes orientées objet**</span></u>. Doctrine offre des fonctionnalités avancées telles que <u><span style="color:rgb(244,164,96)">**la gestion des relations entre les entités, la génération de schémas de base de données, la validation des données et bien plus encore**</span></u>. Elle est largement utilisée dans le développement d'applications Symfony.
