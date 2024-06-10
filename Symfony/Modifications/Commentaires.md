@@ -1,3 +1,9 @@
+---
+prev:
+  text: "Symfony | Système de note et moyenne"
+  link: "Symfony/Modifications/NoteEtMoyenne.md"
+---
+
 ![alt text](image.png)
 
 Création entity Comments
