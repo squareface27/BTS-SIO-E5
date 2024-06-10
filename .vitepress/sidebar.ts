@@ -11,6 +11,10 @@ export default [
             text: "Système de notes + Moyenne",
             link: "Symfony/Modifications/NoteEtMoyenne",
           },
+          {
+            text: "Système de commentaires",
+            link: "Symfony/Modifications/Commentaires.md",
+          },
         ],
       },
       {
